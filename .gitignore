@@ -1,0 +1,41 @@
+
+*.html
+*.class
+*.lst
+*.dumpstream
+*.png
+*.gif
+target/maven-archiver/pom.properties
+*.css
+.classpath
+.gitattributes
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/cil-0.0.1-SNAPSHOT.jar
+target/surefire-reports/jquery-1.7.1.min.js
+target/surefire-reports/junitreports/TEST-testcases.PostTestCases.xml
+target/surefire-reports/old/Suite/Test.properties
+target/surefire-reports/Suite/Test.xml
+target/surefire-reports/TEST-TestSuite.xml
+target/surefire-reports/testng-reports.js
+target/surefire-reports/testng-results.xml
+target/surefire-reports/TestSuite.txt
+target/test-classes/CreateUserSchema.json
+target/test-classes/payload/CreateUser.json
+target/test-classes/payload/RegUser.json
+test-output/Default suite/Default test.xml
+test-output/Default suite/testng-failed.xml
+test-output/jquery-1.7.1.min.js
+test-output/junitreports/TEST-auth.BasicAuth.xml
+test-output/junitreports/TEST-testcases.CreateUser.xml
+test-output/junitreports/TEST-testcases.PostTestCases.xml
+test-output/junitreports/TEST-testcases.TC001.xml
+test-output/old/Default suite/Default test.properties
+test-output/old/Suite/Test.properties
+test-output/Suite/Test.xml
+test-output/Suite/testng-failed.xml
+test-output/testng-failed.xml
+test-output/testng-reports.js
+test-output/testng-results.xml
